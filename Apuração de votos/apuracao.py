@@ -1,0 +1,1 @@
+candidatos = ("LIONEL MESSI","CRISTIANO RONALDO")
